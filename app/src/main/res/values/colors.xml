@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Light Theme Colors -->
+    <color name="colorPrimary">#68A3F7</color>
+    <color name="colorPrimaryVariant">#2874F0</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorBackground">#FFFFFF</color>
+    <color name="colorTextPrimary">#000000</color>
+    <color name="colorCorrect">#4CAF50</color>
+    <color name="colorWrong">#F44336</color>
+    <color name="colorQuestion1">#FFCDD2</color>
+    <color name="colorQuestion2">#C8E6C9</color>
+    <color name="colorQuestion3">#BBDEFB</color>
+    <color name="colorQuestion4">#FFE0B2</color>
+    <color name="colorSelectedOption">#D3D3D3</color> <!-- Light Gray or any color you prefer -->
+
+</resources>

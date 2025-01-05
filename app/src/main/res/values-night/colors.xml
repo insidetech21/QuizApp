@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark Theme Colors -->
+    <color name="colorPrimary">#BB86FC</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="colorOnPrimary">#000000</color>
+    <color name="colorBackground">#121212</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorCorrect">#4CAF50</color>
+    <color name="colorWrong">#F44336</color>
+    <color name="colorQuestion1">#FF8A80</color>
+    <color name="colorQuestion2">#A5D6A7</color>
+    <color name="colorQuestion3">#90CAF9</color>
+    <color name="colorQuestion4">#FFCC80</color>
+</resources>
