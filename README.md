@@ -1,6 +1,6 @@
 **Quiz App**
 
-A simple yet interactive Quiz App developed using Java, with MVVM architecture, Firebase Firestore as the backend, and various other features such as animations and LiveData.
+An engaging and interactive Quiz App built using Java, following the MVVM architecture, and leveraging Firebase Firestore as the backend for seamless data management. The app features smooth UI interactions, offline functionality, and real-time data updates, offering users an exceptional quiz experience.
 
 **----Features----**
 
@@ -22,8 +22,29 @@ A simple yet interactive Quiz App developed using Java, with MVVM architecture, 
 
 **Architecture:** MVVM (Model-View-ViewModel)
 
-**UI Components:** RecyclerView, CardView, Button
+**UI Components:** RecyclerView, CardView, Button, Material Components.
 
 **Backend:** Firebase Firestore
 
-**Other Features:** Animations, LiveData.
+**State Management:** LiveData
+
+**Offline Functionality:** Firestore's offline caching
+
+**Additional Features:** Animations, color-coded feedback for correct/incorrect answers
+
+**----Steps to Run----**
+
+1. Clone this repository:
+2. Open the project in Android Studio.
+3. Add your Google Services JSON file for Firebase integration.
+4. Sync Gradle and run the app on an emulator or physical device.
+
+**----Future Enhancements----**
+
+Add user authentication with Firebase Authentication.
+
+Introduce difficulty levels for quizzes.
+
+Implement Jetpack Compose for a more modern UI approach.
+
+Include progress tracking and leaderboards.
